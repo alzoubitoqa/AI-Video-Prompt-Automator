@@ -1,0 +1,20 @@
+[
+  {
+    "scene": 1,
+    "image_prompt": "Cinematic wide-angle 4k photograph of an environmental researcher standing on a cliff overlooking a lush, mist-covered natural reserve at sunrise. The researcher holds a sleek transparent digital tablet displaying real-time bio-data. Subtle glowing emerald-green augmented reality telemetry grids and scanning markers hover gracefully over the forest canopy below. Volumetric light rays, hyper-realistic texture, photorealistic depth of field, 8k resolution.",
+    "video_motion_prompt": "Slow cinematic push-in toward the researcher, augmented reality HUD gently pulses and scans the forest, mist rolling slowly over the treetops, warm golden-hour lens flare.",
+    "voiceover_script": "لأن حماية كوكبنا تبدأ بالرصد الدقيق... نقدم لكم إيكو سنس إيه آي، بوابتكم الذكية لمتابعة البيئة في كل لحظة."
+  },
+  {
+    "scene": 2,
+    "image_prompt": "Photorealistic close-up of a futuristic environmental control center. An interactive 3D holographic digital twin of the Earth floats above a sleek glass desk, surrounded by glowing data nodes, AI neural network pathways, and carbon-emission heatmaps in cyan and emerald hues. Dynamic reflections on modern curved displays, moody ambient cinematic lighting, macro detail.",
+    "video_motion_prompt": "Smooth orbital pan around the 3D holographic globe, data streams flowing dynamically across the interface, shifting focus from background displays to the center hologram.",
+    "voiceover_script": "بتحليلات فورية مدعومة بأحدث خوارزميات الذكاء الاصطناعي، نحوّل البلاغات والتقارير البيئية إلى إجراءات استباقية حاسمة."
+  },
+  {
+    "scene": 3,
+    "image_prompt": "Epic sweeping drone shot of a flourishing, revitalized river valley where pristine nature harmoniously integrates with a futuristic eco-friendly smart city. Crystal-clear waters, vibrant green tree lines, solar canopies, and a team of diverse young scientists smiling towards the horizon at sunset. Ultra-high definition, cinematic color grading, inspiring and hopeful atmosphere.",
+    "video_motion_prompt": "Ascending high-altitude crane shot revealing the expansive horizon, gentle speed ramp into a panoramic landscape reveal, golden sunset glow washing over the lens.",
+    "voiceover_script": "مع إيكو سنس إيه آي... نصنع معاً مستقبلاً أخضر ومستداماً يحمي مواردنا لأجيال الغد."
+  }
+]

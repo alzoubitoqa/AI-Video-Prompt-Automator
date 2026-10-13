@@ -1,0 +1,15 @@
+# Environments
+venv/
+env/
+
+# Environment Variables (Security)
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output files (Optional, if you don't want to upload the generated JSON)
+# eco_sense_workflow.json
